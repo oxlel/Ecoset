@@ -1,0 +1,10 @@
+{
+  "name": "ecoset",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Philip Holland",
+  "scripts": {
+    "test": "cd test && npm test",
+    "start": "cd api && npm start"
+  }
+}

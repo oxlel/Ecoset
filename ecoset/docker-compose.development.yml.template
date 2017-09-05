@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  ecoset1:
+    restart: "always"
+    volumes:
+      - /my/local/data/directory:/data
+      - /my/local/output/directory:/output
+    ports:
+      - "5002:5002"
+      - "5001:5001"
+  redis:
+    restart: "always"
+    volumes:
+    - /my/local/redis/backup/dir:/data

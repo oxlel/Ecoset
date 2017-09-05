@@ -1,0 +1,38 @@
+{
+	"process": {
+		"outputDir": "../test_output",
+		"executablesDir": "../test_executables",
+		"executables": [
+			{
+				"name": "executable1",
+				"implementations": [
+					{
+						"name": "1",
+						"command": "",
+						"filename": ""
+					}
+				]
+			},
+			{
+				"name": "executable2",
+				"implementations": [
+					{
+						"name": "1",
+						"command": "",
+						"filename": ""
+					}
+				]
+			},
+			{
+				"name": "echo",
+				"implementations": [
+					{
+						"name": "1",
+						"command": "node",
+						"filename": "echo.js"
+					}
+				]
+			}
+		]
+	}
+}

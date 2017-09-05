@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+output
+
+api/config/local.json
+api/node_modules
+api/npm-debug.log
+
+executables/config/local-linux.json
+executables/node_modules
+executables/npm-debug.log
+
+test/config/local.json
+test/node_modules
+test/npm-debug.log.docker

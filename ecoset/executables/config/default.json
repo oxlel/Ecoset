@@ -1,0 +1,133 @@
+{
+    "pollination": {
+        "tileDir": ""
+    },
+    "recreation": {
+        "tileDir": ""
+    },
+    "carbon": {
+        "tileDir": ""
+    },
+    "water_flow_reg_total": {
+        "tileDir": ""
+    },
+    "soil_erosion": {
+        "tileDir": ""
+    },
+    "vulnerability": {
+        "tileDir": ""
+    },
+    "beta_diversity": {
+        "tileDir": ""
+    },
+    "intactness": {
+        "tileDir": ""
+    },
+    "migratory": {
+        "tileDir": ""
+    },
+    "migratory_buffered": {
+        "tileDir": ""
+    },
+    "wetlands": {
+        "tileDir": ""
+    },
+    "resilience": {
+        "tileDir": ""
+    },
+    "landcover": {
+        "tileDir": ""
+    },
+    "ecoregions": {
+        "tileDir": ""
+    },
+    "sev": {
+        "executables": [
+            {
+                "name": "",
+                "weight": 1
+            }
+        ]
+    },
+    "beta_diversity_zonalmean": {
+        "tileDir": ""
+    },
+    "beta_diversity_zonalstdev": {
+        "tileDir": ""
+    },
+    "vulnerability_zonalmean": {
+        "tileDir": ""
+    },
+    "vulnerability_zonalstdev": {
+        "tileDir": ""
+    },
+    "intactness_zonalmean": {
+        "tileDir": ""
+    },
+    "intactness_zonalstdev": {
+        "tileDir": ""
+    },
+    "migratory_zonalmean": {
+        "tileDir": ""
+    },
+    "migratory_zonalstdev": {
+        "tileDir": ""
+    },
+    "wetland_zonalmean": {
+        "tileDir": ""
+    },
+    "wetland_zonalstdev": {
+        "tileDir": ""
+    },
+    "resilience_zonalmean": {
+        "tileDir": ""
+    },
+    "resilience_zonalstdev": {
+        "tileDir": ""
+    },
+    "gbif_amphibia_local": {
+        "tileDir": ""
+    },
+    "gbif_amphibia_zonal": {
+        "tileDir": ""
+    },
+    "gbif_aves_local": {
+        "tileDir": ""
+    },
+    "gbif_aves_zonal": {
+        "tileDir": ""
+    },
+    "gbif_mammalia_local": {
+        "tileDir": ""
+    },
+    "gbif_mammalia_zonal": {
+        "tileDir": ""
+    },
+    "gbif_plantae_local": {
+        "tileDir": ""
+    },
+    "gbif_plantae_zonal": {
+        "tileDir": ""
+    },
+    "gbif_reptilia_local": {
+        "tileDir": ""
+    },
+    "gbif_reptilia_zonal": {
+        "tileDir": ""
+    },
+    "vulnerable_species_list": {
+        "shapefile": ""
+    },
+    "migratory_species_list": {
+        "shapefile": ""
+    },
+    "gbif_list": {
+        "mysql_host": "",
+        "mysql_port": 3306,
+        "mysql_user": "",
+        "mysql_password": "",
+        "mysql_database": "",
+        "gbif_table": "",
+        "gbif_org_table": ""
+    }
+}
